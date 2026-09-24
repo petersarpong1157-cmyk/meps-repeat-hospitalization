@@ -1,0 +1,23 @@
+# MEPS source data (not redistributed)
+*.dta
+
+# R session/workspace files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Generated analysis outputs
+Table2_primary_model_full.csv
+disease_combination_counts.csv
+weighted_repeat_hospitalization_by_count.csv
+MEPS2024_analysis_output.txt
+
+# Generated figures
+Figure1_Repeat_Hospitalization_MEPS2024.png
+Figure2_Adjusted_OR_MEPS2024.png
+Figure3_Categorical_Condition_Count_MEPS2024.png
+
+# OS files
+.DS_Store
+Thumbs.db
