@@ -3,6 +3,11 @@
 ## Study
 Selected Five-Condition Chronic Disease Count and Repeat Hospitalization Among U.S. Adults With Inpatient Hospital Use: Evidence from the 2024 Medical Expenditure Panel Survey
 
+## Archived release
+Version v3.0.3 of these reproducibility materials is archived on Zenodo.
+
+**DOI:** 10.5281/zenodo.22928116
+
 ## Data
 This analysis uses the 2024 Medical Expenditure Panel Survey (MEPS) Household Component Full-Year Consolidated public-use file (HC-256), maintained by the Agency for Healthcare Research and Quality (AHRQ).
 
